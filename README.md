@@ -1,5 +1,5 @@
-# xhyaOne
-xhyaOne console inspired on Git.
+# [xhyaOne](https://github.com/xhyabunny/xhyaOne_/raw/app/xhyaOne_.exe)
+xhyaOne console inspired on Git. [[download app]](https://github.com/xhyabunny/xhyaOne_/raw/app/xhyaOne_.exe)
 
 made by [@xhyabunny](https://github.com/xhyabunny) using C#
 
