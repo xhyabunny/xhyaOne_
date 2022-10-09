@@ -1,6 +1,14 @@
 # xhyaOne
 xhyaOne console inspired on Git.
-made by [@xhyabunny](https://github.com/xhyabunny)
+
+made by [@xhyabunny](https://github.com/xhyabunny) using C#
+
+## Status
+```diff
++ status: working
+# errors: none
+version 0_1b
+```
 
 ## xhyaOne 101
 command ``help`` to get a small view of the commands you can use.
