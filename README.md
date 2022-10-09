@@ -7,7 +7,6 @@ made by [@xhyabunny](https://github.com/xhyabunny) using C#
 ```diff
 + status: working
 # errors: none
-version 0_1b
 ```
 
 ## xhyaOne 101
