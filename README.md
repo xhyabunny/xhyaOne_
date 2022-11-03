@@ -23,6 +23,6 @@ Used for local devices.
 Sets your pc as a receiver for other local devices information, an application is given to be sent to the other devices you want info from.
 
 ```diff
-! [WARNING] This only works locally, we haven't applied HTTP (web) version socket yet
+! [WARNING] This only works locally, we haven't applied HTTP/s (web) version socket yet
 ``` 
 ![sockets](https://user-images.githubusercontent.com/106491722/199830185-cd4aaa39-da48-4965-a7b5-326a6456d644.png)
