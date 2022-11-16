@@ -8,7 +8,7 @@ made by [@xhyabunny](https://github.com/xhyabunny) using C#
 ## Status
 ```diff
 + status: working
-- errors: xhya1Send doesn't work properly (all socket functions aren't recommended to be used yet)
+# errors: none
 ```
 
 ## xhyaOne 101
