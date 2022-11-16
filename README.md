@@ -3,7 +3,7 @@ xhyaOne console inspired on Git.
 
 made by [@xhyabunny](https://github.com/xhyabunny) using C#
 
-![xhyaone](https://user-images.githubusercontent.com/106491722/202124980-ef532ee6-95c1-4840-9bf8-3d162c7a9b53.png)
+![xhyaone](https://user-images.githubusercontent.com/106491722/202317797-c95a2588-ed7e-4910-9a4f-a8ef162b2eec.png)
 
 ## Status
 ```diff
