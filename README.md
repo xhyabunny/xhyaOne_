@@ -1,4 +1,4 @@
-# xhyaOne <
+# xhyaOne
 xhyaOne console inspired on Git.
 
 made by [@xhyabunny](https://github.com/xhyabunny) using C#
