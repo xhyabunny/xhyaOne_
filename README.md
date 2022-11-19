@@ -14,7 +14,7 @@ made by [@xhyabunny](https://github.com/xhyabunny) using C#
 ## xhyaOne 101
 - command ``help`` to get a small view of the commands you can use.
 
-- command ``help ex`` to get a large view of commands. _[WIP]_
+- command ``help ex`` to get a large view of commands _[txt file will popup]_.
 
 ![image](https://user-images.githubusercontent.com/106491722/201836496-0ccefa33-97a6-4ce1-b25b-ac66e8653c9e.png)
 
