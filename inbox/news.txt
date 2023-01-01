@@ -1,16 +1,19 @@
-ola como tamos1241212
-rwerwer
-32r32
-421412
-aaaVVV
-AAAAAAAAAAAAAAAAAAAAAAA
-AAAAA
-1241241241
-aaaa
-dsgsdg
-6777
-7
-7
-sa
-SDFSD
-Asdasfdsafa
+01/01/2023 - 19:19
+
+Welcome to v1.7!
+
+-- this version was focused on bug fix and mostly new cmds.
+
+xhyaOne has been updated with a new inbox generator.
+it will take time to update messages in case its necessary
+so you may want to wait a few moments before receiving a new
+inbox, a notification will appear in the title of the console
+if you get a new inbox.
+
+a log with old inbox messages will probably be added soon 
+in the 1.8 update.
+
+There are new commands so you may wanna type help on the console.
+See you soon!
+
+-xhyabunny <3
